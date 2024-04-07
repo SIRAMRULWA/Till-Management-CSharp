@@ -1,0 +1,14 @@
+C:\Till-Management-C#.net\TillManagementCSharp\bin\Debug\net8.0\TillManagementCSharp.exe
+C:\Till-Management-C#.net\TillManagementCSharp\bin\Debug\net8.0\TillManagementCSharp.deps.json
+C:\Till-Management-C#.net\TillManagementCSharp\bin\Debug\net8.0\TillManagementCSharp.runtimeconfig.json
+C:\Till-Management-C#.net\TillManagementCSharp\bin\Debug\net8.0\TillManagementCSharp.dll
+C:\Till-Management-C#.net\TillManagementCSharp\bin\Debug\net8.0\TillManagementCSharp.pdb
+C:\Till-Management-C#.net\TillManagementCSharp\obj\Debug\net8.0\TillManagementCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Till-Management-C#.net\TillManagementCSharp\obj\Debug\net8.0\TillManagementCSharp.AssemblyInfoInputs.cache
+C:\Till-Management-C#.net\TillManagementCSharp\obj\Debug\net8.0\TillManagementCSharp.AssemblyInfo.cs
+C:\Till-Management-C#.net\TillManagementCSharp\obj\Debug\net8.0\TillManagementCSharp.csproj.CoreCompileInputs.cache
+C:\Till-Management-C#.net\TillManagementCSharp\obj\Debug\net8.0\TillManagementCSharp.dll
+C:\Till-Management-C#.net\TillManagementCSharp\obj\Debug\net8.0\refint\TillManagementCSharp.dll
+C:\Till-Management-C#.net\TillManagementCSharp\obj\Debug\net8.0\TillManagementCSharp.pdb
+C:\Till-Management-C#.net\TillManagementCSharp\obj\Debug\net8.0\TillManagementCSharp.genruntimeconfig.cache
+C:\Till-Management-C#.net\TillManagementCSharp\obj\Debug\net8.0\ref\TillManagementCSharp.dll
